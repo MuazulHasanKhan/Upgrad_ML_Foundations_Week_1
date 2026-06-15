@@ -1,16 +1,16 @@
-# Prereqisites - Machine Learning Fundamentals (Week 1): Python, NumPy, Pandas & Matplotlib Fundamentals
+# Prerequisites - Machine Learning Fundamentals (Week 1): Python, NumPy, Pandas & Matplotlib Fundamentals
 
 ## Overview
 
-This laboratory notebook introduces the fundamental tools and programming concepts required for Machine Learning and Data Science. It covers Python programming basics, scientific computing using NumPy, data manipulation using Pandas, and data visualization using Matplotlib.
+This notebook introduces the fundamental tools and programming concepts required for Machine Learning and Data Science. It covers Python programming basics, scientific computing using NumPy, data manipulation using Pandas, and data visualization using Matplotlib.
 
-The notebook is designed as an introductory hands-on lab for students beginning their journey in Machine Learning.
+The notebook is designed as an introductory hands-on lab for learners beginning their journey in Machine Learning.
 
 ---
 
 ## Learning Objectives
 
-After completing this lab, students will be able to:
+After completing this lab, learners will be able to:
 
 - Set up and manage Python environments.
 - Understand Python data types, operators, and control flow.
