@@ -188,7 +188,9 @@ Concise methods for generating lists.
 Comparison of different feature scaling methods through graphical analysis.
 
 ---
+### 6. Scikit Learn Basics
 
+---
 ## Prerequisites
 
 - Python 3.8+
